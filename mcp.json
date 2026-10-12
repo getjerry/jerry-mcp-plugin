@@ -4,6 +4,9 @@
       "url": "https://mcp.jerry.ai/mcp",
       "headers": {
         "X-Jerry-Require-Sign-In": "true"
+      },
+      "auth": {
+        "CLIENT_ID": "dcr-dyynKTGT4Ec7ichU7tNrS_6J2gRMRAJihxTzapEMNTQ"
       }
     }
   }

@@ -19,7 +19,7 @@ Nothing goes to an insurer until you've seen a summary of what will be sent and 
 
 The first time your agent uses Jerry, it asks you to sign in. Enter your US mobile number and the code Jerry texts you. If you don't have a Jerry account, signing in creates a free one. Then review what the agent will be allowed to do, and allow it.
 
-There's nothing to configure and no API key. `mcp.json` sends `X-Jerry-Require-Sign-In: true` so that Jerry asks you to sign in when the agent first connects, which is when Cursor and Grok Bot open sign-in.
+There's nothing to configure and no API key. `mcp.json` sends `X-Jerry-Require-Sign-In: true` so that Jerry asks you to sign in when the agent first connects, which is when Cursor and Grok Bot open sign-in. It also names Jerry's registered client for Cursor (`auth.CLIENT_ID`), so the sign-in page shows the request as coming from Cursor.
 
 ## Example prompts
 
