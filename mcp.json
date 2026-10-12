@@ -1,7 +1,10 @@
 {
   "mcpServers": {
     "jerry": {
-      "url": "https://mcp.jerry.ai/mcp"
+      "url": "https://mcp.jerry.ai/mcp",
+      "headers": {
+        "X-Jerry-Require-Sign-In": "true"
+      }
     }
   }
 }
