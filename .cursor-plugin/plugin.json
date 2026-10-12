@@ -1,0 +1,15 @@
+{
+  "name": "jerry-insurance",
+  "displayName": "Jerry",
+  "version": "1.0.0",
+  "description": "Get and compare car, home and renters insurance quotes from 100+ insurers, then finish buying in the Jerry app.",
+  "author": {
+    "name": "Jerry",
+    "email": "hi@jerry.ai"
+  },
+  "homepage": "https://mcp.jerry.ai/docs",
+  "repository": "https://github.com/getjerry/jerry-mcp-plugin",
+  "license": "MIT",
+  "keywords": ["insurance", "car insurance", "home insurance", "renters insurance", "insurance quotes", "mcp"],
+  "logo": "assets/logo.png"
+}
